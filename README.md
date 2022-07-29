@@ -14,9 +14,6 @@ The following **required** functionality is completed:
 * [ ] Button displayed on screen
 * [ ] Toast with message appears when button is pressed 
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
